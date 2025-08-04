@@ -1,1 +1,2 @@
 ...ticaret
+c
